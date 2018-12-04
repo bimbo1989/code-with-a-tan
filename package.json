@@ -1,0 +1,24 @@
+{
+    "name": "code-with-a-tan",
+    "displayName": "Code with a tan",
+    "publisher": "bimbo1989",
+    "description": "I liked Solarized but I felt like it needed some improvements in readability. I hope you like it :)",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "icon": "https://i.ibb.co/SQsJWpM/sun-lotion.png",
+    "categories": [
+        "Themes"
+    ],
+    "homepage": "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code with a tan",
+                "uiTheme": "vs",
+                "path": "./themes/Code with a tan-color-theme.json"
+            }
+        ]
+    }
+}
