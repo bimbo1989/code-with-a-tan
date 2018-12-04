@@ -2,6 +2,12 @@
 
 I liked Solarized but I felt like it needed some improvements in readability. I hope you like it :)
 
+## Screenshots
+![Screenshot](/screenshots/1.jpg?raw=true)
+![Screenshot](/screenshots/2.jpg?raw=true)
+![Screenshot](/screenshots/3.jpg?raw=true)
+
+## Improve me with Bracket Pair Colorizer!
 ### Very good with the [Bracket Pair Colorizer Extension](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) with these settings
 ```
 {

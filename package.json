@@ -2,8 +2,8 @@
     "name": "code-with-a-tan",
     "displayName": "Code with a tan",
     "publisher": "bimbo1989",
-    "description": "I liked Solarized but I felt like it needed some improvements in readability. I hope you like it :)",
-    "version": "1.0.0",
+    "description": "Like Solarized, but nicer",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.29.0"
     },
