@@ -7,7 +7,8 @@
     "engines": {
         "vscode": "^1.29.0"
     },
-    "icon": "https://i.ibb.co/SQsJWpM/sun-lotion.png",
+    "repository": "https://github.com/bimbo1989/code-with-a-tan",
+    "icon": "icon/sun-lotion.png",
     "categories": [
         "Themes"
     ],
