@@ -6,3 +6,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 -->
 ## Version 1.0.0
 - Initial release
+## Version 1.0.2
+- Minor changes
