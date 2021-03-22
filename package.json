@@ -3,7 +3,7 @@
     "displayName": "Code with a tan",
     "publisher": "bimbo1989",
     "description": "Like Solarized, but nicer",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.29.0"
     },
