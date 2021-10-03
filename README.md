@@ -40,4 +40,4 @@ https://marketplace.visualstudio.com/items?itemName=bimbo1989.code-with-a-tan
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 -->
 
-**Enjoy!**
+**Enjoy! 🚀🚀🚀**
