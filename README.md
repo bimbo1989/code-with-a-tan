@@ -1,6 +1,6 @@
 # Code with a tan - README!
 
-I liked Solarized but I felt like it needed some improvements in readability. I hope you like it :)<br/>
+I liked Solarized but I felt like it needed some improvements in readability. I hope you like it 😊<br/>
 https://marketplace.visualstudio.com/items?itemName=bimbo1989.code-with-a-tan
 
 ## Screenshots
